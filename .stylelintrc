@@ -1,6 +1,7 @@
 {
   "extends": "stylelint-config-standard",
   "rules": {
+    "linebreak-style": "off",
     "selector-pseudo-class-no-unknown": null,
     "shorthand-property-no-redundant-values": null,
     "at-rule-empty-line-before": null,
